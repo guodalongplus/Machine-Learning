@@ -1,3 +1,6 @@
+![](https://github.com/guodalongplus/Machine-Learning/blob/master/MyChatBot/pic/1.png)
+![](https://github.com/guodalongplus/Machine-Learning/blob/master/MyChatBot/pic/2.png)
+
 demo_data:      不同大小的语料信息
 pic:            神经网络结构图片
 pickle_and_h5:  序列化的语料信息训练好的模型
